@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[You can download a copy of my CV here.](assets/Vrotsos_CV.pdf)
+[You can download a copy of my CV here.]({{ '/assets/Vrotsos_CV.pdf' | relative_url }})
