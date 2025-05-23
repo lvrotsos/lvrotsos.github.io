@@ -6,3 +6,4 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "Duke University"
 location: "Durham, North Carolina"
 ---
+
